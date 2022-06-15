@@ -1,2 +1,2 @@
-# desafio-dio-git
-Desafio de projeto sobre git/github
+# Repositório do desafio de projeto sobre git/github da DIO
+## Autor: Renato Miranda Setúbal
