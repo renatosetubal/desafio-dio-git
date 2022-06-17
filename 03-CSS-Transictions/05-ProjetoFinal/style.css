@@ -195,7 +195,7 @@ a:hover {
     opacity: 1;
 }
 
-/* CARDS */
+/* Home, os cards*/
 
 .container {
     width: 100%;
@@ -235,7 +235,7 @@ a:hover {
     width: 40%;
     font-family: sans-serif;
     letter-spacing: 1px;
-    color: rgb(109, 109, 109);
+    color:  #1E6AE1;
 }
 
 .card-wrapper {
@@ -337,3 +337,4 @@ a:hover {
         width: 190px;
     }
 }
+
