@@ -1,0 +1,21 @@
+body{
+    color:brown;
+    background-color:azure;
+}
+
+/*Caracterizar botões com suas cores*/
+.botaoazul{
+    background-color:blue;
+    color:white;
+    border:1px solid white;
+}
+.botaovermelho{
+    background-color:red;
+    color:white;
+    border:1px solid white;
+}
+.botaorosa{
+    background-color:pink;
+    color:white;
+    border:1px solid white;
+}
