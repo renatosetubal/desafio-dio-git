@@ -17,7 +17,7 @@ function recebeNumeros() {
     } else {
         texto = `Os números ${n1} e ${n2} `;
        // ehIgual = verificaIgualdade(n1, n2);
-       const ehIgual=n1==n2;
+       const ehIgual=n1==n2;//nova implementação
         if (ehIgual) {
             texto = texto + "são iguais. ";
         } else {
@@ -25,8 +25,8 @@ function recebeNumeros() {
         }
         resultado = calcula(n1, n2);
         texto = texto + `A soma dos dois números é ${resultado}, `;
-        const ehMaiorDez = resultado >= 10;
-        const ehMenorVinte = resultado <= 20;
+        const ehMaiorDez = resultado >= 10; //nova implementação
+        const ehMenorVinte = resultado <= 20; //nova implementação
         if (ehMaiorDez) {
             texto = texto + `que é maior que 10 e  `;
         } else {
