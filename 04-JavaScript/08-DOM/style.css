@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding:0;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    
+    
+}
+
+.dark{
+    background-color:black;
+    width:400px;
+    height:300px;
+    color:white;
+    padding:20px 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnMudar{
+    border-radius: 40%;
+    border:none;
+   
+}
